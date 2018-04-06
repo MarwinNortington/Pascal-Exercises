@@ -5,7 +5,7 @@
 
 // Author: Marwin Nortington
 
-program SumOfArray;
+program SumOfArrayP1;
 uses crt;
 var f,f1: text;
  n,j,s: integer;
